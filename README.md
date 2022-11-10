@@ -10,7 +10,7 @@ Return the smallest sorted list of ranges that cover all the numbers in the arra
 
 Each range [a,b] in the list should be output as:
 
-"a->b" if a != b
+"a->b" if a != b </br>
 "a" if a == b
 
 ## Language
