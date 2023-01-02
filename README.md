@@ -14,4 +14,4 @@ Each range [a,b] in the list should be output as:
 "a" if a == b
 
 ## Language
-Java
+Java 12
