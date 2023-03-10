@@ -13,5 +13,8 @@ Each range [a,b] in the list should be output as:
 "a->b" if a != b </br>
 "a" if a == b
 
+## IDE
+Intellij IDEA
+
 ## Language
 Java 12
